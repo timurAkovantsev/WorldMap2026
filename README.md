@@ -48,4 +48,4 @@ WorldMap2026/
 └── Services/               # Сервисы и генерация
     ├── MapGenerator.cs     # Процедурная генерация биомов
     └── JsonWorldStorage.cs # Сохранение и загрузка мира в формат JSON
-    a
+    
