@@ -48,4 +48,8 @@ WorldMap2026/
 └── Services/               # Сервисы и генерация
     ├── MapGenerator.cs     # Процедурная генерация биомов
     └── JsonWorldStorage.cs # Сохранение и загрузка мира в формат JSON
-    
+
+
+<img width="1307" height="948" alt="image" src="https://github.com/user-attachments/assets/f65d7b73-4217-4097-ae0e-40819a248282" />
+<img width="1302" height="952" alt="image" src="https://github.com/user-attachments/assets/16d5fd13-5ed7-4790-ba1f-fd148a8713e1" />
+
