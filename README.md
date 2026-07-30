@@ -51,9 +51,6 @@ WorldMap2026/
 
 ## 📸 Демонстрация работы
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f65d7b73-4217-4097-ae0e-40819a248282" width="45%" alt="Главное окно редактора" />
-  <img src="https://github.com/user-attachments/assets/16d5fd13-5ed7-4790-ba1f-fd148a8713e1" width="45%" alt="Отредактированный ландшафт" />
-</p>
+![Скриншот 1](https://github.com/user-attachments/assets/f65d7b73-4217-4097-ae0e-40819a248282)
 
 
